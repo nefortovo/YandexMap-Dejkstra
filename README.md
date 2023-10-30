@@ -1,5 +1,5 @@
 # YandexMap-Dejkstra
-Шnteractive metro map with routing  
+Interactive metro map with routing  
 
 The search algorithm used is Dijkstra's algorithm  
 
